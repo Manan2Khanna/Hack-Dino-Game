@@ -1,0 +1,20 @@
+# Hack-Dino-Game
+
+ Source Dino Game-You Type on Google Chrome 
+Then visit on this site Dinosaur Game Chrome
+
+Then click on game and loose game quickly
+Then look above you see a option JS
+Click on JS
+
+And enter this code
+
+
+var dummy = Runner.prototype.gameOver
+Runner.prototype.gameOver = function(){
+}
+Then press Enter
+Then start game
+Then you will notice the game will Hack
+
+BY -- Manam Khanna
